@@ -1,0 +1,15 @@
+/workspaces/githup-platzi/probando/bin/Debug/net8.0/probando
+/workspaces/githup-platzi/probando/bin/Debug/net8.0/probando.deps.json
+/workspaces/githup-platzi/probando/bin/Debug/net8.0/probando.runtimeconfig.json
+/workspaces/githup-platzi/probando/bin/Debug/net8.0/probando.dll
+/workspaces/githup-platzi/probando/bin/Debug/net8.0/probando.pdb
+/workspaces/githup-platzi/probando/obj/Debug/net8.0/probando.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/githup-platzi/probando/obj/Debug/net8.0/probando.AssemblyInfoInputs.cache
+/workspaces/githup-platzi/probando/obj/Debug/net8.0/probando.AssemblyInfo.cs
+/workspaces/githup-platzi/probando/obj/Debug/net8.0/probando.csproj.CoreCompileInputs.cache
+/workspaces/githup-platzi/probando/obj/Debug/net8.0/probando.sourcelink.json
+/workspaces/githup-platzi/probando/obj/Debug/net8.0/probando.dll
+/workspaces/githup-platzi/probando/obj/Debug/net8.0/refint/probando.dll
+/workspaces/githup-platzi/probando/obj/Debug/net8.0/probando.pdb
+/workspaces/githup-platzi/probando/obj/Debug/net8.0/probando.genruntimeconfig.cache
+/workspaces/githup-platzi/probando/obj/Debug/net8.0/ref/probando.dll
