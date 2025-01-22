@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/githup-platzi/probando/probando.csproj": {}
+    "C:\\Users\\J. D. User\\Desktop\\githup-platzi\\probando\\probando.csproj": {}
   },
   "projects": {
-    "/workspaces/githup-platzi/probando/probando.csproj": {
+    "C:\\Users\\J. D. User\\Desktop\\githup-platzi\\probando\\probando.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/githup-platzi/probando/probando.csproj",
+        "projectUniqueName": "C:\\Users\\J. D. User\\Desktop\\githup-platzi\\probando\\probando.csproj",
         "projectName": "probando",
-        "projectPath": "/workspaces/githup-platzi/probando/probando.csproj",
-        "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/githup-platzi/probando/obj/",
+        "projectPath": "C:\\Users\\J. D. User\\Desktop\\githup-platzi\\probando\\probando.csproj",
+        "packagesPath": "C:\\Users\\J. D. User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\J. D. User\\Desktop\\githup-platzi\\probando\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/codespace/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\J. D. User\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
